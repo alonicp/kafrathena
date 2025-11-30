@@ -1,6 +1,0 @@
-userid: alonis1
-passwd: alonip1
-char_ip: 127.0.0.1
-login_ip: 127.0.0.1
-server_name: Kafravela
-pincode_enabled: no
