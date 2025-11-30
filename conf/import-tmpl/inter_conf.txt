@@ -1,0 +1,23 @@
+login_server_id: rathenadbusr
+login_server_pw: aloni
+login_server_db: rathenadb
+
+ipban_db_id: rathenadbusr
+ipban_db_pw: aloni
+ipban_db_db: rathenadb
+
+char_server_id: rathenadbusr
+char_server_pw: aloni
+char_server_db: rathenadb
+
+map_server_id: rathenadbusr
+map_server_pw: aloni
+map_server_db: rathenadb
+
+web_server_id: rathenadbusr
+web_server_pw: aloni
+web_server_db: rathenadb
+
+log_db_id: rathenadbusr
+log_db_pw: aloni
+log_db_db: rathenalog
